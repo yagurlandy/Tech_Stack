@@ -1,3 +1,5 @@
+## Author: Andy Lopez-Martinez
+
 # Go Hello World – Tech Stack Survey
 
 This project is a minimal full-stack “Hello World” web application built in Go as part of the **03.02 Tech Stack Survey** assignment.  

@@ -1,3 +1,5 @@
+## Author: Andy Lopez-Martinez
+
 # Full-Stack Web Application
 
 This repository contains a full-stack web application built with Node.js,
